@@ -17,8 +17,8 @@
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
-            <artifactId>spring-context</artifactId>
-            <version>3.2.7.RELEASE</version>
+            <artifactId>spring-core</artifactId>
+            <version>[4.3.17,)</version>
         </dependency>
         
         
